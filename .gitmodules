@@ -1,0 +1,3 @@
+[submodule "src/CNN-Symmetry"]
+	path = src/CNN-Symmetry
+	url = https://github.com/NicolasMICAUX/CNN-Symmetry.git
